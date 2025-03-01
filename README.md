@@ -3,15 +3,10 @@ You must use the correct program for your Operative System, EXAMPLE FOR LINUX :
 $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
 
 ./goSearchLinAMD64B -dir /var/log -text "ERROR"
+![Schermata del 2025-03-01 16-04-13](https://github.com/user-attachments/assets/7778ae15-bdbf-413c-8760-b99c100283f2)
 
-""
-m    m mmmmm   mmmm  mmmmm         mm   m
- "m  m"   #    #"   "   #     m""#m #"m  #
-  #  #    #    "#mmm    #    #  mm# # #m #
-  "mm"    #        "#   #    # #  # #  # #
-   ##   mm#mm  "mmm#" mm#mm  #m """ #   ##
-                              "mmm        
-""
+
+
                By Visi@n
 	
 
